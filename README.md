@@ -11,7 +11,6 @@ This is a simple Android application for user authentication built using Firebas
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -23,18 +22,6 @@ This is a simple Android application for user authentication built using Firebas
 - **User Login**: Registered users can log in with their credentials.
 - **Main Screen**: A basic main screen as a placeholder for your app's functionality.
 - **Firebase Integration**: Utilizes Firebase Authentication for user management.
-
-## Screenshots
-
-### Registration
-![Registration](ASSETS/registration.png){width=300px}
-
-### Login
-![Login](ASSETS/login.png){width=300px}
-
-### Main Screen
-![Main Screen](ASSETS/main.png){width=300px}
-
 
 ## Getting Started
 
