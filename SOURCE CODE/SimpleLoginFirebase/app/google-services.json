@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9879489967",
+    "project_id": "kurir-315009",
+    "storage_bucket": "kurir-315009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9879489967:android:4896c09cd41f249844f35a",
+        "android_client_info": {
+          "package_name": "com.arifdwi.simpleloginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9879489967-ullshh9vj87houa49h7k2bsapi5mjtr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6BgNlPTpbt4bqNJ-Ob55p5q4VJDlaE1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9879489967-qejo3sskr8mu918j0njg0mkd7mvo21v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
