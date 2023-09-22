@@ -50,6 +50,6 @@ Before you begin, ensure you have met the following requirements:
 - Main Screen: Customize the main screen to include your app's functionality.
 
 ## Author & support
-This project was created by [Arif Dwi](https://arifdwi.github.io/).
+This project was created by [Arif Dwi](https://github.com/arifdwi).
 
 > If you appreciate my work, consider buying me a cup of :coffee: to keep me recharged :metal: by [PayPal](https://www.paypal.me/arifdwi)
