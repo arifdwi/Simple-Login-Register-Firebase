@@ -1,8 +1,8 @@
-# Simple Android Login Register with Firebase
+# Simple Android Login Register with Firebase 
 
-![Android Login Register with Firebase](ASSETS/login.png)
-![Android Login Register with Firebase](ASSETS/registration.png)
-![Android Login Register with Firebase](ASSETS/main.png)
+![Android Login Register with Firebase](ASSETS/login.png){width=300px}
+![Android Login Register with Firebase](ASSETS/registration.png){width=300px}
+![Android Login Register with Firebase](ASSETS/main.png){width=300px}
 
 This is a simple Android application for user authentication built using Firebase Authentication. It includes features for user registration, login, and a basic main screen.
 
@@ -25,13 +25,13 @@ This is a simple Android application for user authentication built using Firebas
 ## Screenshots
 
 ### Registration
-![Registration](<img src="ASSETS/registration.png" width="300">)
+![Registration](ASSETS/registration.png){width=300px}
 
 ### Login
-![Login](ASSETS/login.png)
+![Login](ASSETS/login.png){width=300px}
 
 ### Main Screen
-![Main Screen](ASSETS/main.png)
+![Main Screen](ASSETS/main.png){width=300px}
 
 ## Getting Started
 
