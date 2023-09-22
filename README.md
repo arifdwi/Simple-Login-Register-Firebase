@@ -1,6 +1,6 @@
 # Simple Android Login Register with Firebase
 
-![Android Login Register with Firebase](ASSETS/login.png){width=50%}
+`![Android Login Register with Firebase](ASSETS/login.png){width=50%}`
 ![Android Login Register with Firebase](ASSETS/registration.png){width=50%}
 ![Android Login Register with Firebase](ASSETS/main.png){width=50%}
 
